@@ -3,7 +3,8 @@
 - :wrench: My tools: 
 - 📫 How to reach me 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSpennato&layout=compact)](https://github.com/LucaSpennato/github-readme-stats)
+
+<p><img width='300' src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaSpennato&show_icons=true&locale=en&layout=compact"/></p>
 
 <!---
 LucaSpennato/LucaSpennato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
