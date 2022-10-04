@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LucaSpennato
 - 🌱 I’m currently learning in Boolean Careers to become a Full stack web dev!
+- :wrench: My tools: 
 - 📫 How to reach me 
 
 <!---
