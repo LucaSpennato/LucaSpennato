@@ -9,7 +9,7 @@
 <a href="https://twitter.com/Fomjot" /><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
 
 ## :wrench: My Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
 
 ## :mag_right: My stats: 
 <p>
@@ -17,7 +17,7 @@
 </p>
 <br/>
 <p>
-   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSpennato&layout=compact" alt="luca spennatos's languages stats image" />
+   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSpennato&layout=compact&theme=radical" alt="luca spennatos's languages stats image" />
 </p>
 
 <!---
