@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @LucaSpennato
-- 🌱 I’m currently learning Java and Spring.
+- 🌱 I’m currently learning TypeScript and Angular.
 - 👀 I’m interested in Videogames, TvShows, Manga and Books.
 - :milky_way: Space lover! :first_quarter_moon_with_face:
 - :telescope: Always trying to learn something new!
