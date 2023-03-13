@@ -9,7 +9,7 @@
 <a href="https://twitter.com/Fomjot" /><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
 
 ## :wrench: My Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,ts,angular,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
 
 ## :mag_right: My stats: 
 <p>
